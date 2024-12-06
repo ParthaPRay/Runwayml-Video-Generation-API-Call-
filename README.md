@@ -7,6 +7,10 @@ Then, the image (say image_1.png) is converted to **base64** format. Such conerv
 
 The code uses one generated image (from DALL-E-3) to generate one video (from runwayml).
 
+# Resources
+
+Runwayml API doc is available  https://pypi.org/project/runwayml/ and https://docs.dev.runwayml.com/
+
 # Buy API credits
 
   Buy API credits for runwayml by making an organization.
