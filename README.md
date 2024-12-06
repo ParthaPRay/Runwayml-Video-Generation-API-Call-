@@ -13,7 +13,7 @@ The code uses one generated image (from DALL-E-3) to generate one video (from ru
 
   Buy ChatGPT4o pro subscription that gives DALL-E-3 service too. 
 
-# Use .env 
+# Steps 
 
 1. **Install dependencies**
 
