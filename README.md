@@ -3,7 +3,7 @@ This repo has codes for runwayml video image generation API call
 
 This code uses **DALL-E-3** as base image generator model. User gives **text prompt** hardcoded into the code to generate an image and download it in local directory called **"generated_content"**. The images are named as _image_1.png_, _image_2.png_ and so on. Images are downlaoded as .png format with size 1024x1024. The format can be changed to .jpg also. 
 
-Then, the image (say image_1.png) is converted to **base64** format. Such conerverted format + **text prompt** together used to call the **gen3a_turbo** model from runwayml API. The call generated a video of _5 seconds_ duration. Then the generated video is downloaded as _video_1.mp4, video_2.mp4_, so on (in .mp4 format) in the same directory i.e. **"generated_content"**. 
+Then, the image (say image_1.png) is converted to **base64** format. Such conerverted format + **text prompt** together used to call the **gen3a_turbo** model from runwayml API. The call generated a video of _5 seconds_ duration. Then the generated video is downloaded as _video_1.mp4 (in .mp4 format) in the same directory i.e. **"generated_content"**. For aother image, nsame file named video is generted.
 
 The code uses one generated image (from DALL-E-3) to generate one video (from runwayml).
 
