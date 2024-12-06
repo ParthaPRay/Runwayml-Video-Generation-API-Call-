@@ -21,7 +21,7 @@ The code uses one generated image (from DALL-E-3) to generate one video (from ru
    
 2. **Make a .env file**
 
-   The **.env** file where you replace **ENTER-YOUR-DALL-E-API-KEY** and **ENTER-YOUR-RUNWAYML-API-KEY** with your actual API key from  [runwayml API](https://dev.runwayml.com/organization/11823b9f-5ee7-4412-84fe-0c226e71c628/api-keys))
+   The **.env** file where you replace **ENTER-YOUR-DALL-E-API-KEY** from chatgpt and **ENTER-YOUR-RUNWAYML-API-KEY** with your actual API key from runwayml
 
    OPENAI_API_KEY=**ENTER-YOUR-DALL-E-API-KEY**
 
